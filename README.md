@@ -2,9 +2,7 @@
 
 > Universal Vue stores you write once and use anywhere
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/davestewart/vue-class-store/master/docs/logo.png" alt="Vue Class Store logo">
-</p>
+![logo](docs/logo.png)
 
 ## Abstract
 
